@@ -5,3 +5,6 @@ Because we're utilizing React Native, we're creating a single-page application w
 AWS amplify, graphql, aws app sync, and aws dynamo db are the backend technologies. Stripe has also been incorporated into our application to handle payments.
 
 <img src="project-screenshot.png" />
+
+After successfull payment with stripe
+<img src="Screenshot 2024-03-20 115307.png" />
